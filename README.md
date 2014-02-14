@@ -3,8 +3,8 @@ basic-carousel
 
 BasicCarousel for jQuery
 
-* [Basic Example](#basicExample)
-* [Show four items](#fourItems)
+* [Basic Example](#basic-example)
+* [Show four items](#show-four-items)
 
 ##Options
 
@@ -27,8 +27,8 @@ Below you can see the options that can use
 
 ## Examples
 
-### Basic Example <a name="basicExample"></a>
+### Basic Example
 ![When set nothing](https://raw.github.com/euricovidal/basic-carousel/master/images_readme/basic-example.png)
 
-### Show four items <a name="fourItems"></a>
+### Show four items
 ![When set visibleItems:4 and autoPlay:true](https://raw.github.com/euricovidal/basic-carousel/master/images_readme/four-example.png)
