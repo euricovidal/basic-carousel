@@ -16,6 +16,7 @@
 }
 .div-my-carousel ul li {
   list-style: none;
+  width: 200px;
 }
 .div-my-carousel .carousel-button {
   position: absolute;
