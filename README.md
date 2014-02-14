@@ -30,9 +30,9 @@ Below you can see the options that can use
 ## Examples
 
 ### Basic Example
-[Basic Example page](tree/master/examples/basic)
-![When set nothing](http://www.ividal.net/basic-carousel/examples/basic)
+[Basic Example page](http://www.ividal.net/basic-carousel/examples/basic)
+![When set nothing](https://raw.github.com/euricovidal/basic-carousel/master/images_readme/basic-example.png)
 
 ### Show four items
-[Showing four items with auto play](tree/master/examples/four-visible-items-auto)
-![When set visibleItems:4 and autoPlay:true](http://www.ividal.net/basic-carousel/examples/four-visible-items-auto)
+[Showing four items with auto play](http://www.ividal.net/basic-carousel/examples/four-visible-items-auto)
+![When set visibleItems:4 and autoPlay:true](https://raw.github.com/euricovidal/basic-carousel/master/images_readme/four-example.png)
