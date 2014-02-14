@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  background:
+    radial-gradient(black 15%, transparent 16%) 0 0,
+    radial-gradient(black 15%, transparent 16%) 8px 8px,
+    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px,
+    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+  background-color:#282828;
+  background-size:16px 16px;
+  behavior: url(pie.htc);
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #333;
+  text-align: center;
+}
+
+.content {
+  margin: 20px auto;
+  padding: 10px 20px 30px 20px;
+  width: 80%;
+  min-width: 960px;
+  background-color: #e8e8e8;
+  box-shadow: 5px 5px 5px 0 rgba(50, 50, 50, 0.75);
+  border-radius: 10px;
+}
