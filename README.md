@@ -24,6 +24,7 @@ Below you can see the options that can use
 | text_prev       | String  | <             | text to the previous button (you can set null to nothing) | text_prev: '< Prev'   |
 | text_pext       | String  | >             | text to the next button (you can set null to nothing)     | text_next: 'Next >'   |
 | show_arrows     | Boolean | true          | set false to not show the arrows                          | show_arrows: false    |
+| show_numbers    | Boolean | false         | set true to show the page numbers                         | show_numbers: true    |
 | height          | Integer | 0             | to force the div height (if you need)                     | height: 150           |
 
 
