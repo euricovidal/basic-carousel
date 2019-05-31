@@ -1,0 +1,68 @@
+.section-carousel {}
+.div-my-carousel {
+  margin: 0 auto;
+  width: 800px;
+  height: 133px;
+  border: 10px solid #fff;
+  box-shadow: 2px 2px 5px 0 rgba(50, 50, 50, 0.75);
+  position: relative;
+  border-radius: 10px;
+}
+.div-my-carousel ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  z-index: 5;
+}
+.div-my-carousel ul li {
+  list-style: none;
+  width: 200px;
+}
+.div-my-carousel .carousel-button {
+  position: absolute;
+  padding: 10px;
+  top: 50px;
+  height: 20px;
+  width: 20px;
+  background-color: #fff;
+  z-index: 2;
+  text-decoration: none;
+  color: #666;
+  font-weight: bold;
+}
+.div-my-carousel .carousel-button.disabled {
+  display: none;
+}
+.div-my-carousel .carousel-button-prev {
+  left: -30px;
+  border-radius: 50% 0 0 50%;
+  text-align: left;
+}
+.div-my-carousel .carousel-button-prev:hover {
+  left: -35px;
+}
+.div-my-carousel .carousel-button-next {
+  right: -30px;
+  border-radius: 0 50% 50% 0;
+  text-align: right;
+}
+.div-my-carousel .carousel-button-next:hover {
+  right: -35px;
+}
+.div-my-carousel .photo-credits {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  color: #fff;
+  font-size: 13px;
+  z-index: 6;
+  text-shadow: 2px 2px #000;
+}
+.div-my-carousel .photo-credits a {
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+}
+.div-my-carousel .photo-credits a:hover {
+  text-decoration: underline;
+}
